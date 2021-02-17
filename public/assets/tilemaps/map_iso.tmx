@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <map version="1.4" tiledversion="1.4.3" orientation="isometric" renderorder="right-down" width="16" height="16" tilewidth="256" tileheight="128" infinite="0" nextlayerid="2" nextobjectid="1">
+ <editorsettings>
+  <export target="map_iso.json" format="json"/>
+ </editorsettings>
  <tileset firstgid="1" name="iso_tileset" tilewidth="256" tileheight="512" tilecount="1" columns="0">
   <grid orientation="orthogonal" width="1" height="1"/>
   <tile id="0">

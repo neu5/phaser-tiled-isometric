@@ -1,4 +1,12 @@
 { "compressionlevel":-1,
+ "editorsettings":
+    {
+     "export":
+        {
+         "format":"json",
+         "target":"map_iso.json"
+        }
+    },
  "height":16,
  "infinite":false,
  "layers":[
